@@ -12,7 +12,7 @@ Verwenden Sie LaTeX (nicht Word, etc.; außer Sie wissen ganz genau, was Sie da 
 
 #### IEEE-Zitationsstil
 
-In der Informatik wird oft der *IEEE-Zitationsstil* [1] verwendet. Quellen werden im Literaturverzeichnis einfach durchnummeriert. Im Text steht diese Zahl in eckigen Klammern. [2] Es ist auch möglich mehrere Quellen auf einmal zu zitieren [3,4,5]. In LaTeX erfolgt das Zitieren mittels `\cite{bibtexid}` bzw. `\cite{eine_id,eine_andere_id} ` . 
+In der Informatik wird oft der *IEEE-Zitationsstil* [1] verwendet. Quellen werden im Literaturverzeichnis einfach durchnummeriert. Im Text steht diese Zahl in eckigen Klammern. [2] Es ist auch möglich, mehrere Quellen auf einmal zu zitieren [3,4,5]. In LaTeX erfolgt das Zitieren mittels `\cite{bibtexid}` bzw. `\cite{eine_id,eine_andere_id} ` . 
 
 #### Geschütztes Leerzeichen vor `\cite` 
 
