@@ -4,7 +4,7 @@
 
 ## Allgemein
 
-- Verwenden Sie LaTeX (nicht Word, etc.; außer Sie wissen ganz genau, was Sie da tun!)
+Verwenden Sie LaTeX (nicht Word, etc.; außer Sie wissen ganz genau, was Sie da tun!)
 
 
 
