@@ -1,3 +1,43 @@
+<!-- TOC start -->
+- [Der Bachelor-/Masterarbeiten-Guide](#der-bachelor-masterarbeiten-guide)
+  * [Allgemein](#allgemein)
+  * [Zitieren](#zitieren)
+      - [IEEE-Zitationsstil](#ieee-zitationsstil)
+      - [Geschütztes Leerzeichen vor `\cite` ](#geschütztes-leerzeichen-vor-cite)
+      - [BibTeX](#bibtex)
+      - [Zitieren von Webseiten / Fußnoten](#zitieren-von-webseiten--fußnoten)
+  * [Textformatierung](#textformatierung)
+      - [`\texttt` - Kommandos in Monospace-Schrift](#texttt---kommandos-in-monospace-schrift)
+      - [`\enquote` - Anführungszeichen](#enquote---anführungszeichen)
+      - [`\emph` - Wort hervorheben](#emph---wort-hervorheben)
+      - [Silbentrennung in Bindestrich"=Wörtern](#silbentrennung-in-bindestrichwörtern)
+      - [Silbentrennung in unbekannten Wörtern](#silbentrennung-in-unbekannten-wörtern)
+  * [Grafiken](#grafiken)
+      - [Vektorgrafiken](#vektorgrafiken)
+      - [Abbildungen nummerieren und Titel geben](#abbildungen-nummerieren-und-titel-geben)
+      - [Farbe vs. Schwarz-Weiß](#farbe-vs-schwarz-weiß)
+  * [Programmcode](#programmcode)
+      - [Code nicht als Screenshots](#code-nicht-als-screenshots)
+  * [Schreibstil](#schreibstil)
+      - [Keine direkten Fragen stellen](#keine-direkten-fragen-stellen)
+      - [Kein Du, kein Sie](#kein-du-kein-sie)
+      - [Kein Ich](#kein-ich)
+  * [Typische Fehler im Deutschen](#typische-fehler-im-deutschen)
+      - [Komma vor zu + Infinitiv](#komma-vor-zu--infinitiv)
+      - [Bindestriche](#bindestriche)
+      - [Englische Wörter im deutschen Text](#englische-wörter-im-deutschen-text)
+      - [n und m](#n-und-m)
+      - [Wörterbuch und Google](#wörterbuch-und-google)
+      - [Satz beenden, bevor der Nebensatz losgeht](#satz-beenden-bevor-der-nebensatz-losgeht)
+      - [Abkürzungen](#abkürzungen)
+      - [z. B. und d. h. mit geschütztem Leerzeichen](#z-b-und-d-h-mit-geschütztem-leerzeichen)
+  * [Typical Mistakes in English Texts](#typical-mistakes-in-english-texts)
+      - [Comma after introductory subordinate clauses](#comma-after-introductory-subordinate-clauses)
+      - [Hyphens](#hyphens)
+      - [Heading Capitalization](#heading-capitalization)
+      - [Capitalize Names](#capitalize-names)
+      - [Oxford Comma](#oxford-comma)
+<!-- TOC end -->
 # Der Bachelor-/Masterarbeiten-Guide
 
 **Dieser Guide beinhaltet lediglich Ideen und Best-Practices. Es besteht kein Anspruch auf Vollständigkeit und Korrektheit. Er dient lediglich zur Inspiration und als ungefähre Richtlinie. Nur weil Dinge hier stehen, heißt das nicht, dass sie immer gelten und stets richtig sind.** 
@@ -102,7 +142,7 @@ Ich weise darauf hin, dass man die erste Person Singular vermeiden sollte. Wir h
 
 #### Komma vor zu + Infinitiv
 
-Vielen fällt es schwer, Kommas korrekt *zu* setzen. Anstatt einfach *zu* raten, ist hier ein Tipp: Wenn der eine Teil des Satzes "zu" und ein Verb im Infinitiv beinhaltet, werden die beiden Satzteil mit einem Komma getrennt.
+Vielen fällt es schwer, Kommas korrekt *zu* setzen. Anstatt einfach *zu* raten, ist hier ein Tipp: Wenn der eine Teil des Satzes "zu" und ein Verb im Infinitiv beinhaltet, werden die beiden Satzteile mit einem Komma getrennt.
 
 #### Bindestriche
 
@@ -161,18 +201,3 @@ Names of people, cities, and countries are capitalized: Peter, Berlin, Germany. 
 #### Oxford Comma
 
 Apples, Banana, and Strawberries. Use the oxford comma before the words "and" and "or" when your list contains more than two elements. 
-
-
-
-
-
-   
-
-
-
-
-
-  
-
- 
-
