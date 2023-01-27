@@ -1,5 +1,8 @@
+# Der Bachelor-/Masterarbeiten-Guide
+
+**Dieser Guide beinhaltet lediglich Ideen und Best-Practices. Es besteht kein Anspruch auf Vollständigkeit und Korrektheit. Er dient lediglich zur Inspiration und als ungefähre Richtlinie. Nur weil Dinge hier stehen, heißt das nicht, dass sie immer gelten und stets richtig sind.** 
+
 <!-- TOC start -->
-- [Der Bachelor-/Masterarbeiten-Guide](#der-bachelor-masterarbeiten-guide)
   * [Allgemein](#allgemein)
   * [Zitieren](#zitieren)
       - [IEEE-Zitationsstil](#ieee-zitationsstil)
@@ -38,9 +41,6 @@
       - [Capitalize Names](#capitalize-names)
       - [Oxford Comma](#oxford-comma)
 <!-- TOC end -->
-# Der Bachelor-/Masterarbeiten-Guide
-
-**Dieser Guide beinhaltet lediglich Ideen und Best-Practices. Es besteht kein Anspruch auf Vollständigkeit und Korrektheit. Er dient lediglich zur Inspiration und als ungefähre Richtlinie. Nur weil Dinge hier stehen, heißt das nicht, dass sie immer gelten und stets richtig sind.** 
 
 ## Allgemein
 
