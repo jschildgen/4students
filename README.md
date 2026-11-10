@@ -4,6 +4,7 @@
 
 <!-- TOC start -->
   * [Allgemein](#allgemein)
+      - [LaTeX-Editor](#latex-editor)
   * [Zitieren](#zitieren)
       - [IEEE-Zitationsstil](#ieee-zitationsstil)
       - [Geschütztes Leerzeichen vor `\cite` ](#geschütztes-leerzeichen-vor-cite)
@@ -44,9 +45,11 @@
 
 ## Allgemein
 
-Verwenden Sie LaTeX (nicht Word, etc.; außer Sie wissen ganz genau, was Sie da tun!)
+Verwende LaTeX (nicht Word, etc.; außer du weißt ganz genau, was du da tust!)
 
+#### LaTeX-Editor
 
+Zur Bearbeitung von LaTeX-Dokumenten gibt es viele verschiedene Programme für Windows, MacOS und Linux (TeXworks, TeXstudio, TeXmaker, ...), eine LaTeX-Erweiterung für Visual Studio Code und den Cloud-basierten Online Editor Overleaf. In der kostenlosen Version von Overleaf kann es bei komplexen Dokumenten zu einem Timeout kommen. In unserer Arbeitsgruppe an der OTH haben wir jedoch eine selbst-gehostete Installation von Overleaf, die du gerne nutzen kannst. Hier tritt das Problem nicht auf.
 
 ## Zitieren
 
